@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# TASK-1-TODO
+# TASK-: TODO APP
 =======
 # Getting Started with Create React App
 
@@ -8,6 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+After Cloning the repo Install react-scrips by running the below command
+
+#### `npm install react-scripts`
 
 ### `npm start`
 
